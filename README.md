@@ -1,4 +1,12 @@
-# flexui
+# flexui-laviticas709
+
+Foundry V12 Release
+
+Forked from: https://github.com/iotech-fvtt/flexui
+
+Compatibility for FoundryVTT v12+
+
+===============================================
 
 Foundry V11 Release
 
