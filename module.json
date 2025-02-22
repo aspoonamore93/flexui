@@ -1,7 +1,7 @@
 {
-  "title": "FlexUI",
+  "title": "FlexUI-Lavitiacs709",
   "description": "A customizable UI for FVTT. Uses icons from Rexard and iotech. Comes with 4 interchangeable themes",
-  "version": "0.3.0",
+  "version": "1.0.0",
   "scripts": [
     "scripts/flexui.js"
   ],
@@ -25,19 +25,19 @@
       "flags": {}
     }
   ],
-  "url": "https://github.com/iotech-fvtt/flexui",
-  "manifest": "https://raw.githubusercontent.com/iotech-fvtt/flexui/Foundry-V10/module.json",
-  "download": "https://github.com/iotech-fvtt/flexui/releases/download/0.2.0/flexui.zip",
-  "id": "flexui",
+  "url": "https://github.com/aspoonamore93/flexui",
+  "manifest": "https://raw.githubusercontent.com/aspoonamore93/flexui/Foundry-V12/module.json",
+  "download": "https://github.com/aspoonamore93/flexui/releases/download/1.0.0/flexui.zip",
+  "id": "flexui-laviticas709",
   "authors": [
     {
-      "name": "iotech",
-      "discord": "iotech@5331"
+      "name": "Lavticias709",
+      "discord": ""
     }
   ],
   "compatibility": {
     "minimum": "10",
-    "verified": "11",
+    "verified": "12",
     "maximum": ""
   }
 }
