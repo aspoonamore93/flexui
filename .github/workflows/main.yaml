@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - run: zip -r ./flexui-laviticas709.zip module.json css/ scripts/ templates/ ui/ lang/ templates/ /.vs
+      - run: zip -r ./flexui-laviticas709.zip module.json css/ scripts/ templates/ ui/ lang/ templates/ .vs/
       - name: Create Release
         id: create_latest_release
         uses: ncipollo/release-action@v1
@@ -17,5 +17,5 @@ jobs:
           draft: false
           prerelease: false
           token: ${{ secrets.GITHUB_TOKEN }}
-          artifacts: './module.json'
+          artifacts: './flexui-laviticas709.zip'
           tag: latest
