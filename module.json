@@ -26,8 +26,8 @@
     }
   ],
   "url": "https://github.com/aspoonamore93/flexui",
-  "manifest": "https://raw.githubusercontent.com/aspoonamore93/flexui/module.json",
-  "download": "https://github.com/aspoonamore93/flexui/releases/archive/refs/tags/flexui-laviticas709.zip",
+  "manifest": "https://raw.githubusercontent.com/aspoonamore93/flexui/refs/heads/main/module.json",
+  "download": "https://github.com/aspoonamore93/flexui/releases/download/1.0.0/flexui-laviticas709.zip",
   "id": "flexui-laviticas709",
   "authors": [
     {
